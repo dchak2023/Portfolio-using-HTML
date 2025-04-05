@@ -28,8 +28,8 @@ project-root/ ├── index.html ├──Images/pics ├── public/ previo
 
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/your-username/html5-project.git
-   cd html5-project
+   git clone https://github.com/dchak2023/Portfolio-using-HTML.git
+   cd Portfolio-using-HTML
 Open index.html in your browser
 You can simply double-click the file or open it using Live Server (VSCode extension).
 
@@ -53,4 +53,4 @@ Want to suggest improvements or report issues? Feel free to open an issue or sub
 This project is licensed under the MIT License.
 
 ✨ Author
-Crafted with care by [Devjoy Chakraborty]
+Crafted with care by **Devjoy Chakraborty**
